@@ -1,7 +1,7 @@
 # Image Segmentation
 
 This is an implementation of an image segmentation program which segments 
-the foreground and background. The program uses an implementation of max-flow/min-cut 
+an image's foreground and background written in matlab. The program uses an implementation of max-flow/min-cut 
 using Boykov-Kolmogorov's algorithm written in c++ with a wrapper for matlab.
 
 # Files:
