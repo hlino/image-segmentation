@@ -1,6 +1,3 @@
-% Author: Matthew Mauriello
-% CMSC 426 - Fall 2012 - Dr. David. Jacobs
-% -----------------------------------------------
 % Abstract: 
 % This GUI script will open a small window that will allow the user
 % to segement forground objects in a picture by selecting background 
